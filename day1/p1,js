@@ -1,0 +1,2 @@
+const data="hellow world"
+console.log(data);
